@@ -1,0 +1,12 @@
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/obj/Debug/netstandard2.0/xlearn.Repository.csprojAssemblyReference.cache
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/obj/Debug/netstandard2.0/xlearn.Repository.csproj.CoreCompileInputs.cache
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/obj/Debug/netstandard2.0/xlearn.Repository.AssemblyInfoInputs.cache
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/obj/Debug/netstandard2.0/xlearn.Repository.AssemblyInfo.cs
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/bin/Debug/netstandard2.0/xlearn.Repository.deps.json
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/bin/Debug/netstandard2.0/xlearn.Repository.dll
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/bin/Debug/netstandard2.0/xlearn.Repository.pdb
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/bin/Debug/netstandard2.0/xlearn.Models.dll
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/bin/Debug/netstandard2.0/xlearn.Models.pdb
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/obj/Debug/netstandard2.0/xlearn.Repository.csproj.CopyComplete
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/obj/Debug/netstandard2.0/xlearn.Repository.dll
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Repository/obj/Debug/netstandard2.0/xlearn.Repository.pdb

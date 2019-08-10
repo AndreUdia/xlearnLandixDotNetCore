@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>xlearn.Api</name>
+    </assembly>
+    <members>
+        <member name="M:xlearn.Api.Controllers.UserController.Get">
+            <summary>
+            Get all users from database.
+            </summary>
+            <returns>
+            List of users.
+            </returns>
+            <response code="200">Returns the json with the list of users</response>
+        </member>
+        <member name="M:xlearn.Api.Controllers.UserController.Get(System.UInt64)">
+            <summary>
+            Get the specifique user from database.
+            </summary>
+            <param name="id">The user's identification code.</param>
+            <returns>
+            The watershed requested.
+            </returns>
+            <response code="200">Returns the requested user.</response>
+            <response code="404">If the user was not found.</response>
+        </member>
+        <member name="M:xlearn.Api.Controllers.UserController.Post(xlearn.Models.User)">
+            <summary>
+            Create a new user
+            </summary>
+            <returns>
+            The user requested.
+            </returns>
+            <param name="user">The user object.</param>
+            <response code="201">If the user was created.</response>
+            <response code="500">If something get wrong creating the new user.</response>
+        </member>
+        <member name="M:xlearn.Api.Controllers.UserController.Put(System.UInt64,xlearn.Models.User)">
+            <summary>
+            Update a user
+            </summary>
+            <returns>
+            Code 200 if success or 500 if something get wrong.
+            </returns>
+            <param name="id">The user id.</param>
+            <param name="user">The user updated values.</param>
+            <response code="200">If the user was updated.</response>
+            <response code="500">If something get wrong updating the user.</response>
+        </member>
+        <member name="M:xlearn.Api.Controllers.UserController.Delete(System.UInt64)">
+            <summary>
+            Delete a user
+            </summary>
+            <returns>
+            Code 200 if success or 500 if something get wrong.
+            </returns>
+            <param name="id">The user id.</param>
+            <response code="200">If the user was deleted.</response>
+            <response code="500">If something get wrong deleting the user.</response>
+        </member>
+        <member name="M:xlearn.Api.Controllers.ValuesController.Get">
+            <summary>
+            Métodos para buscar os valores
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

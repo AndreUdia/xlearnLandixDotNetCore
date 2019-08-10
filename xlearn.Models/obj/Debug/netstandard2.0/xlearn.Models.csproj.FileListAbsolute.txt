@@ -1,0 +1,9 @@
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Models/bin/Debug/netstandard2.0/xlearn.Models.deps.json
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Models/bin/Debug/netstandard2.0/xlearn.Models.dll
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Models/bin/Debug/netstandard2.0/xlearn.Models.pdb
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Models/obj/Debug/netstandard2.0/xlearn.Models.csproj.CoreCompileInputs.cache
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Models/obj/Debug/netstandard2.0/xlearn.Models.AssemblyInfoInputs.cache
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Models/obj/Debug/netstandard2.0/xlearn.Models.AssemblyInfo.cs
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Models/obj/Debug/netstandard2.0/xlearn.Models.dll
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Models/obj/Debug/netstandard2.0/xlearn.Models.pdb
+/home/cabomaldade/XLearn/dotnet/xlearn/xlearn.Models/obj/Debug/netstandard2.0/xlearn.Models.csprojAssemblyReference.cache
